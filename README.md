@@ -1,8 +1,8 @@
 ### Spring Boot Demo with Neo4j
 
-Version - 1 - Primer - Saving Data and Establishing Relationship.
-Version - 2 - Beginner - CRUD.
-Version - 3 - Advanced Complex Relations and directed graphs impl.
+- Version - 1 - Primer - Saving Data and Establishing Relationship.
+- Version - 2 - Beginner - CRUD.
+- Version - 3 - Advanced Complex Relations and directed graphs impl.
 
 #### Neo4J Introduction
 https://neo4j.com/
