@@ -1,0 +1,86 @@
+﻿[
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Pawan Kulkarni",
+"dob": "13-04-1990"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Purvi Kulkarni",
+"dob": "14-07-1993"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Swara Kulkarni",
+"dob": "10-10-2019"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Sneha Kulkarni",
+"dob": "06-04-1968"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 10,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Shashikant Kulkarni",
+"dob": "21-02-1961"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Shridhar Kulkarni",
+"dob": "01-01-1961"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 14,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Surekha Kulkarni",
+"dob": "01-01-1965"
+      }
+    }
+  }
+]
